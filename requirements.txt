@@ -1,0 +1,15 @@
+tensorflow
+librosa
+pandas
+tqdm
+sklearn
+numpy
+matplotlib
+ipython
+to install write
+pip install (place the name here)
+e.g.
+pip install librosa
+
+Link to install the codecs
+https://phoenixnap.com/kb/ffmpeg-windows
